@@ -2,3 +2,5 @@
 ## This is an H2 header
 #### This is an H4 header
 ##### Balls
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
