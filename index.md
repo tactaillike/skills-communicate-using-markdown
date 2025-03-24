@@ -14,3 +14,8 @@ int main() {
   return 0;
 }
 ```
+
+``` Python
+
+print("Hello, world!")
+```
