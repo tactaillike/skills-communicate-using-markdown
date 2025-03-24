@@ -4,3 +4,13 @@
 ##### Balls
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` C++
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hello, world!" << endl;
+  return 0;
+}
+```
